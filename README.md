@@ -2,6 +2,17 @@
 
 My name is Felipe and I come originally from Brazil. I have been living in Germany for the past 15 years. My journey in the IT world started in 2021 with an apprenticeship in Application Development that I finished 3 years later. There I learned in C#, .NET and ASP.NET Core. I also have basic knowledge in HTML, CSS and JavaScript. Recently I started a web development bootcamp at neue fische to improve my skills in front-end and learn React, Next.js and other technologies.
 
+## Technologies:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ## Hobbies:
 
 - Hiking in the mountains
