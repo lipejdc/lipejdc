@@ -4,4 +4,9 @@ My name is Felipe and I come originally from Brazil. I have been living in Germa
 
 ## Hobbies:
 
-[Berge an der Küste](https://pexels.com/de-de/foto/meer-natur-ozean-kuste-6534192.jpeg/)
+- Hiking in the mountains
+- Cycling
+- Reading
+- Listening to music
+
+![Jezero Jasna](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffinestayslovenia.com%2Fwp-content%2Fuploads%2F2019%2F12%2Flake-jasna-slovenia.jpg&f=1&nofb=1&ipt=1e92ab553a64d789ffdc5ac9957094c920ab23e6056a16e4621d4913cec67384)
