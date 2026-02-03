@@ -12,8 +12,8 @@ My name is Felipe, I come originally from Brazil but I have been living in Germa
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
-![C#](https://img.shields.io/badge/C%23-13.0-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet)
+![C#](https://img.shields.io/badge/C%23-14.0-239120?logo=c-sharp&logoColor=white)
 
 ## Hobbies:
 
