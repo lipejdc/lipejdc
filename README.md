@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-Hi I'm Felipe, a Brazilian backend developer based in Germany.
+I'm Felipe, a Brazilian backend developer based in Germany.
 
 I started my journey in the IT world in 2021 with an apprenticeship as IT Specialst for Application Development, whicb I successfully comopleted after 3 years. Since then, I have focused on building robust and scalable backend systems  using C#/.NET and ASP.NET Core, Entity Framework Core.
 
